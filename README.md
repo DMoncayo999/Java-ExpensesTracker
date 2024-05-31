@@ -2,7 +2,7 @@
 
 Welcome! This time using Java languaje, Visual Studio Code and GitHub we are going to create a program that helps users tracks their daily expenses. 
 
-You can find a video demo for all the process in the link below:
+You can find a video demo for this program in the link below:
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -21,8 +21,8 @@ To continue learning more about Java language, you can go to:
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+In the future, I would like to improve this basic expenses tracker:
 
-- Item 1
-- Item 2
-- Item 3
+- Integrating additional functionalities, such as sorting expenses by date or amount, filtering expenses based on criteria, and allowing users to export reports in different formats (PDF, Excel, etc.).
+- Adding  a structured data format (like CSV or JSON) for file storage to facilitate easier data manipulation and compatibility with other tools or applications.
+- Implementing more informative error messages for users when invalid inputs are detected, guiding them on how to correct their input.
