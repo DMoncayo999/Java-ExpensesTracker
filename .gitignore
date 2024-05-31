@@ -19,3 +19,4 @@ Thumbs.db
 # Ignore Java-specific files
 target/
 bin/
+.fake

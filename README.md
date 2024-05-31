@@ -4,7 +4,7 @@ Welcome! This time using Java languaje, Visual Studio Code and GitHub we are goi
 
 You can find a video demo for this program in the link below:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cIIy05si7Ic)
 
 # Development Environment
 
